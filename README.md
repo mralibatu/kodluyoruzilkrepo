@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://app.patika.dev/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
@@ -24,3 +25,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
+=======
+# kodluyoruzilkrepo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+>>>>>>> 62afa33e46b038292f2a34aca1299391d2e1c1de
